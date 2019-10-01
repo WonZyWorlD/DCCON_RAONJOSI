@@ -26,6 +26,7 @@
 {name:"곰제발.png", keywords:["곰제발"], tags:[]},
 {name:"곰하이.png", keywords:["곰하이"], tags:[]},
 {name:"공포.png", keywords:["공포"], tags:[]},
+{name:"구독티콘-일해채찍.png", keywords:["구독티콘-일해채찍"], tags:[]},
 {name:"그루트1.gif", keywords:["그루트1"], tags:[]},
 {name:"그루트2.gif", keywords:["그루트2"], tags:[]},
 {name:"그루트뭐.gif", keywords:["그루트뭐"], tags:[]},
